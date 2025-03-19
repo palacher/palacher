@@ -5,9 +5,7 @@
   <img src="https://img.shields.io/badge/html-%2307405e.svg?style=for-the-badge&logo=HTML&logoColor=white"></h1>
 <div>
   <h3>  SOCIAL
-    <img align="bottom" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
     <a href="https://ultrastorms.t.me"><img align="bottom" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="mailto:palacher@tensi.org"><img align="bottom" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </h3>
   <h1></h1>
   <h3>  OS        
