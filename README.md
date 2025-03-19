@@ -22,8 +22,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Palacher&show_icons=true&count_private=true&bg_color=30,e96443,904e95&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=fafafa&border_radius=20&include_all_commits=true&line_height=30&custom_title=My%20GitHub%20Stats">
 </p>
  <h1></h1>
-  <p><span style="vertical-align: middle;">🌏</span>Locales that I know: ru, en, ua</p>
-</div>
-  <p><span style="vertical-align: middle;">👨‍💻</span> Python3 programmer residing on Planet Earth. Proficient in C++ and C#. Specializes in developing Telegram bots and working with SQLite3 databases and the fastapi framework.</p>
-  <p><span style="vertical-align: middle;">🎨</span> Passionate about multimedia work including Photoshop, Illustrator, and Premiere Pro.</p>
+  <p><span style="vertical-align: middle;">🌏</span>Locales that I know: RU, EN</p>
 </div>
